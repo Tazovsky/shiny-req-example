@@ -1,2 +1,2 @@
 
-Examples of use "shiny::req" function.
+Examples of use `shiny::req` function.
