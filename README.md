@@ -1,2 +1,2 @@
-# shiny-req-example
-Examples of use "shiny::req"
+
+Examples of use "shiny::req" function.
